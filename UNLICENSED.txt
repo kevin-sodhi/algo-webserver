@@ -1,0 +1,4 @@
+All rights reserved.
+
+This project and its source code are the property of Kevin Sodhi.
+No permission is granted to copy, modify, merge, publish, distribute, or sublicense any part of this software without explicit written consent from the author.
